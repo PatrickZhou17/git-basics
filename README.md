@@ -1,4 +1,4 @@
-# git-basics
+# git-master
 
 This repository contains a set of lessons on the basics of git, with a focus on the skills, commands, tools, and workflows common to contributing to large open source projects.
 So, if you want to get started contributing to open source, want to learn the basics of git, or just want to brush up your skills - welcome! This is the place to start!
